@@ -1,0 +1,23 @@
+
+N
+java:S1612",Replace this lambda with a method reference.(ÕäÈºùÿÿÿÿ8ˆÏÒöæ.
+0
+java:S1220""Move this file to a named package.
+N
+java:S1612+",Replace this lambda with a method reference.(ğ‹ûùÿÿÿÿ8Û‡Ş÷æ.
+H
+java:S1481*"&Remove this unused "s" local variable.(¾©çÅıÿÿÿÿ8ƒóÚ÷æ.
+T
+java:S3655"2Call "max.isPresent()" before accessing the value.(÷å«Õÿÿÿÿÿ8šÉ™÷æ.
+T
+java:S3655"2Call "min.isPresent()" before accessing the value.(ê­ÙŸùÿÿÿÿ8¿µ—÷æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8ÁÒ†÷æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ê­ÙŸùÿÿÿÿ8¿µ—÷æ.
+W
+java:S1854*"5Remove this useless assignment to local variable "s".(¾©çÅıÿÿÿÿ8“Ú÷æ.
+Q
+java:S1611"/Remove the parentheses around the "e" parameter(ÕäÈºùÿÿÿÿ8‹¼Áöæ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕäÈºùÿÿÿÿ8‹¼Áöæ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8±º±÷æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷å«Õÿÿÿÿÿ8÷ä˜÷æ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(€†­ğ8ÕÍ«÷æ.
